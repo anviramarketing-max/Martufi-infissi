@@ -11,5 +11,5 @@ pnpm-debug.log*
 
 .npm-cache
 tsconfig.tsbuildinfo
-images/
+/images/
 server.log
